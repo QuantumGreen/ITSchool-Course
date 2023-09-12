@@ -1,4 +1,4 @@
-package session4.hws3;
+package session3.hw;
 
 // 8. Create a program that takes two byte values, adds them together, and stores the result
 // in a byte variable.

@@ -1,4 +1,4 @@
-package session4.hws3;
+package session3.hw;
 
 // 6. Write a Java program that takes two numbers from the user and uses relational operators
 // to display whether the first number is greater than, less than, or equal to the second number.

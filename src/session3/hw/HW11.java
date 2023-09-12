@@ -1,4 +1,4 @@
-package session4.hws3;
+package session3.hw;
 
 // 11. Write a Java program that takes two boolean inputs from a user.
 // Apply the logical negation operator (!) to each and print the result.

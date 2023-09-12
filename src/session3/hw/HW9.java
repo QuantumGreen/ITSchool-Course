@@ -1,4 +1,4 @@
-package session4.hws3;
+package session3.hw;
 
 // 9. Write a program that calculates the area of a rectangle. Take the length and breadth as inputs.
 

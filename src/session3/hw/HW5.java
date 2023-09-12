@@ -1,4 +1,4 @@
-package session4.hws3;
+package session3.hw;
 
 // 5. Create a Java program that demonstrates the use of each compound assignment operator with integers.
 

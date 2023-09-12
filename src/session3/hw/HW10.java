@@ -1,4 +1,4 @@
-package session4.hws3;
+package session3.hw;
 
 // 10. Write a program that reverses the sign of an entered integer using unary minus operator.
 
