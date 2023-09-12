@@ -1,4 +1,4 @@
-package session3;
+package testing_stuff_out;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

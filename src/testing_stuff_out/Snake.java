@@ -1,4 +1,4 @@
-package sesiunea1;//public class Snake extends JFrame {
+package testing_stuff_out;//public class Snake extends JFrame {
 
 //        public Snake() {
 ////            super("Rectangles Drawing Demo");
