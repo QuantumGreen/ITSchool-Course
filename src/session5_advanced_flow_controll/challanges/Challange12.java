@@ -5,7 +5,7 @@ import java.util.Scanner;
 //12. Continue Statement
 //Create a program that asks the user for 10 numbers. Print the sum of all numbers that are greater than 5. If the user enters a number less than or equal to 5, use the continue statement to skip the addition for that number.
 
-public class challange12 {
+public class Challange12 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

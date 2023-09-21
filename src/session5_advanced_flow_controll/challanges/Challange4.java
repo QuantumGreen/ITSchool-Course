@@ -5,7 +5,7 @@ import java.util.Scanner;
 //4. String Reverser
 //Ask the user to enter a string. Print the reversed version of this string.
 
-public class challange4 {
+public class Challange4 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

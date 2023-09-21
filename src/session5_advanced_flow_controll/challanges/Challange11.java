@@ -5,7 +5,7 @@ import java.util.Scanner;
 //11. Break Statement
 //Write a program that prompts the user to enter numbers. Calculate the average of these numbers. If the user enters 0, break out of the input loop and then print the average of the numbers entered so far.
 
-public class challange11 {
+public class Challange11 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
