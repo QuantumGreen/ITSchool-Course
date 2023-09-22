@@ -10,7 +10,7 @@ import java.util.Scanner;
 //Exit.
 //Based on the user's input, perform the necessary action. Once an action is completed, show the menu again, unless the user chooses the Exit option. Use jump statements to control the flow of the program.
 
-public class challange10 {
+public class Challange10 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

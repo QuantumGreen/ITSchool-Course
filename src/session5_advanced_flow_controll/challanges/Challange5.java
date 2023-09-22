@@ -5,7 +5,7 @@ import java.util.Scanner;
 //5. Fibonacci Series Generator
 //Write a program that generates and prints the first n numbers of the Fibonacci series, where n is provided by the user.
 
-public class challange5 {
+public class Challange5 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

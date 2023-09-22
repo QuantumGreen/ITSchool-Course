@@ -31,7 +31,7 @@ import java.util.*;
 // its possible that DFS wont give optimal path
 
 
-public class challange13 {
+public class Challange13 {
 
     static final int M = 5;
     static final int N = 5;

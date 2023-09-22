@@ -5,7 +5,7 @@ package session5_advanced_flow_controll.challanges;
 
 import java.util.Scanner;
 
-public class challange1 {
+public class Challange1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -4,11 +4,10 @@ import java.util.Scanner;
 
 //
 
-public class challangeT {
+public class ChallengeT {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         sc.close();
     }
 }

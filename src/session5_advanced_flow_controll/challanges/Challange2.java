@@ -5,7 +5,7 @@ import java.util.Scanner;
 //2. Month Name Finder
 //Write a program that asks the user to enter a number between 1 and 12. Print the name of the corresponding month or "Invalid Month" if out of range.
 
-public class challange2 {
+public class Challange2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
