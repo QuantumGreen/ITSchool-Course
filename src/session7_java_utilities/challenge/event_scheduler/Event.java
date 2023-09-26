@@ -18,14 +18,15 @@ public class Event {
         this.reminderDateTime = reminderDateTime;
     }
 
-    public Duration timeUntilEvent(){
-        return Duration.between(LocalDateTime.now(),eventDateTime);
-    }
-    public Duration timeUntilReminder(){
-        return Duration.between(LocalDateTime.now(),eventDateTime);
+    public Duration timeUntilEvent() {
+        return Duration.between(LocalDateTime.now(), eventDateTime);
     }
 
-    public void Display(){
+    public Duration timeUntilReminder() {
+        return Duration.between(LocalDateTime.now(), eventDateTime);
+    }
+
+    public void Display() {
         LocalDate date = eventDateTime.toLocalDate();
         LocalTime time = eventDateTime.toLocalTime();
         System.out.println(eventName + " on " + date + " at " + time);
