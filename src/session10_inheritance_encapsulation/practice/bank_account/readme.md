@@ -1,0 +1,1 @@
+Create a class called BankAccount that represents a bank account with balance. Users can deposit, withdraw, and check their balance. Ensure that the balance cannot be directly accessed or modified except through these methods. Also, users should not be able to withdraw more than their current balance.
