@@ -23,6 +23,4 @@ public class Hal9000 {
         }
         return false;
     }
-
-
 }

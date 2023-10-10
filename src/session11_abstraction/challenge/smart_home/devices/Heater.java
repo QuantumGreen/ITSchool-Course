@@ -5,11 +5,11 @@ import session11_abstraction.challenge.smart_home.Device;
 
 public class Heater extends Device {
 
-    public Heater(){
+    public Heater() {
         actuators.add(new Actuator() {
             @Override
             public void actuate(double TemperatureOffset) {
-                if(TemperatureOffset<0){
+                if (TemperatureOffset < 0) {
                     System.out.println("Heaters cannot be used for cooling, use the AC instead!");
                     return;
                 }

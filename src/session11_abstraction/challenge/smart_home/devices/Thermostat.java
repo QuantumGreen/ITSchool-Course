@@ -6,7 +6,7 @@ import session11_abstraction.challenge.smart_home.Sensor;
 public class Thermostat extends Device {
     public double temperature;
 
-    Thermostat(){
+    Thermostat() {
         sensors.add(new Sensor() {
             @Override
             public double sendData() {

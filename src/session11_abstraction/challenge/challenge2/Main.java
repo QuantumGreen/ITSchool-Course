@@ -1,4 +1,4 @@
-package session11_abstraction.challenge2;
+package session11_abstraction.challenge.challenge2;
 
 public class Main {
     public static void main(String[] args) {

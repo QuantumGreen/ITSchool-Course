@@ -1,4 +1,4 @@
-package session11_abstraction.challenge3;
+package session11_abstraction.challenge.challenge3;
 
 public class StudentA extends Marks {
 

@@ -1,4 +1,4 @@
-package session11_abstraction.challenge1;
+package session11_abstraction.challenge.challenge1;
 
 public class Child1 extends Parent{
     @Override
